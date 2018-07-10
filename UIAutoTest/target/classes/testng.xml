@@ -6,4 +6,9 @@
             <class name="com.demo.businessA.loginTest"/>
         </classes>
     </test>
+
+
+    <listeners>
+        <listener class-name="com.demo.utils.ExtentTestNGIReporterListener" />
+    </listeners>
 </suite>
