@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="login" parallel="">
+
+    <test name="loginTest1" preserve_order="true">
+        <classes>
+            <class name="com.demo.businessA.loginTest"/>
+        </classes>
+    </test>
+</suite>
